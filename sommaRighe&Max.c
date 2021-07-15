@@ -3,7 +3,7 @@
 #include <omp.h>
 #include <time.h>
 
-/*Calcola la somma di ogni riga e salvala in un array e infine trova il massimo valore presente nell'array */
+/*Calcola la somma di ogni riga di una matrice e salvala in un array . Trova il massimo valore presente nell'array */
 
 int main(int argc, char const *argv[])
 {
