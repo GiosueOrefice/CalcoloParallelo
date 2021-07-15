@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-/*SOMMA DELLE RIGHE PARI DI UNA MATRICE */
+/*SOMMA DELLE RIGHE PARI DI UNA MATRICE  */
 
 int main(int argc, char const *argv[])
 {
