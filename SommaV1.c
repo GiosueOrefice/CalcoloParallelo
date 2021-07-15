@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <omp.h>
 
+/*SOMMA PRIMA STRATEGIA */
+
 int main()
 {
         int i,N,t,nloc,r,id,step; /*t serve per il numero di thread, nloc numero di elementi locali di cui si occupera` ogni thread.*/
