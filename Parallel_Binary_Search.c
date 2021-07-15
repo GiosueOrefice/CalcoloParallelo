@@ -46,9 +46,9 @@ int binarySearch(int left, int right,int t, int token, int *a)
     if(token<a[left] || token>a[right])
         return -1;
     
-    int mid = (right - left + 1)/2; //Sottoporzione del vettore.
+    int mid = (right - left + 1)/2; 
 
-    if (mid == 0)  //Se il vettore è composto da un solo elemento.
+    if (mid == 0)  
         return (a[left] != token) ?  -1 :  left;
 
     if(a[mid] == token)
