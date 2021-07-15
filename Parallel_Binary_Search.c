@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <omp.h>
 
+/*RICERCA BINARIA RICORSIVA */
 
 int binarySearch(int left, int right,int t,int token, int *a);
 
