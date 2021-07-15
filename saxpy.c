@@ -47,8 +47,8 @@ int main(int argc, char const *argv[])
 	printf("RISULTATI\nR[]:\n");
 	for(i=0;i<M;i++)
 		printf("%d\n",r[i]);
+	
 	printf("P = %ld\n",p);
-
 	printf("\n");
 
 
